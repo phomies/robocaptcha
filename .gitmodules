@@ -1,3 +1,9 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/phomies/callcaptcha-frontend.git
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/phomies/robocaptcha-notification.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/phomies/robocaptcha-backend.git
