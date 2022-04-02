@@ -13,3 +13,6 @@
 [submodule "documentation"]
 	path = documentation
 	url = https://github.com/phomies/robocaptcha-documentation
+[submodule "calls-service"]
+	path = calls-service
+	url = https://github.com/phomies/robocaptcha-service
