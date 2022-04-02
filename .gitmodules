@@ -7,3 +7,9 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/phomies/robocaptcha-backend.git
+[submodule "service"]
+	path = calls-service
+	url = https://github.com/phomies/robocaptcha-service.git
+[submodule "documentation"]
+	path = documentation
+	url = https://github.com/phomies/robocaptcha-documentation
