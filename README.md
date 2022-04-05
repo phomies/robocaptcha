@@ -1,4 +1,8 @@
-# RoboCaptcha
+# roboCAPTCHA
+
+View our documentation and user manual for deployment at [docs.robocaptcha.xyz](https://docs.robocaptcha.xyz)
+
+View our deployed production site at [robocaptcha.xyz](https://robocaptcha.xyz)
 
 <div align="center">
     <img class="center" src="./images/roboCaptcha.png" width="300" height="300"/>
@@ -16,7 +20,7 @@
 
 ## Overview
 **Vision**
-> *RoboCaptcha* aims to significantly reduce scams worldwide, tackling any form of scams that arise as technology and cybercrime progresses. Rigorous verification techniques are employed to prevent scams from reaching the receiver, and protect unsuspecting individuals from falling prey to malicious scams.
+> *roboCAPTCHA* aims to significantly reduce scams worldwide, tackling any form of scams that arise as technology and cybercrime progresses. Rigorous verification techniques are employed to prevent scams from reaching the receiver, and protect unsuspecting individuals from falling prey to malicious scams.
 
 **Case Study**
 > Due to the interconnectedness world we're living in, scammers leverage on the publicly available open-sourced softwares and accessibility to technology to innovate sophiscated ways to target victims. 90% of scams in Singapore originate from overseas, resulting in victims losing at least **$633.3 million** to scams in 2021. These scams varies from phishing links to impersonation calls, making it difficult for officials to isolate the cause. ([Source](https://www.straitstimes.com/singapore/courts-crime/victims-lost-6333-million-to-scams-in-2021))
@@ -26,7 +30,7 @@
 - Individuals who highly value their time, that do not wish to be disrupted from robocalls
 
 ## Architecture Diagram
-TO BE INSERTED
+![Architecture Diagram](https://user-images.githubusercontent.com/15935990/161755173-e7795f18-3ab8-41b8-95d2-5b565b5618c8.jpg)
 
 ## Contributors
 - [Daryl Wong](https://github.com/wongdaryl)
